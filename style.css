@@ -109,8 +109,8 @@ p {
     width: 20em;
     margin-bottom: 5em;
     margin-right: 10em;
-    -webkit-mask-image: url(/../images/programming.svg);
-    mask-image: url(/../images/programming.svg);
+    -webkit-mask-image: url(images/programming.svg);
+    mask-image: url(images/programming.svg);
     mask-repeat: no-repeat;
     mask-size: 20em;
     -webkit-user-drag: none;
@@ -125,7 +125,7 @@ p {
 /*  ////////APRESENTACAO ////////////    */
 
 .gridInscricao{
-    background: url(/../images/4q1wb787.bmp);
+    background: url(images/4q1wb787.bmp);
     background-size:cover;
     background-repeat: no-repeat;
     padding:10em 0;
